@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "M Asim Imtiaz — Portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "lint": "echo \"No linter configured for static HTML project\""
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "M Asim Imtiaz",
+  "license": "MIT"
+}
